@@ -3,7 +3,7 @@
 A full-stack application to manage your pets, track their details, and perform CRUD operations.
 
 - **Frontend:** React + Vite + Tailwind CSS
-- **Backend:** Node.js + Express + MongoDB
+- **Backend:** Node.js + Express
 
 ---
 
